@@ -1,4 +1,4 @@
 print("hello world")
 
-test=[1,2,3,4,5]
+test=[1,2,4]
 print(len(test))
